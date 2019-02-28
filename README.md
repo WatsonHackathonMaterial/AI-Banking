@@ -1,6 +1,6 @@
 # AI, Quantum Computing + Banking
 
-# Quantum Computing, Introducing Qiskit
+## Quantum Computing, Introducing Qiskit
 
 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_8A9939CB6D0A26C232963948753CC8F02FBB1FCC3B81E708EED0002DF2E7A8B6_1551332055475_Screen+Shot+2019-02-28+at+12.21.15+AM.png)
@@ -11,7 +11,8 @@
 - https://developer.ibm.com/open/projects/qiskit/
 - https://qiskit.org/
 - https://github.com/QISKit
-# AI + Banking 
+
+## AI + Banking 
 
 **Example Code Patterns:**
 
@@ -21,7 +22,7 @@
 
 Finance starter kit: https://console.bluemix.net/developer/finance/starter-kits
 
-# Call for Code 
+## Call for Code 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_8A9939CB6D0A26C232963948753CC8F02FBB1FCC3B81E708EED0002DF2E7A8B6_1551335542761_Screen+Shot+2019-02-28+at+1.30.44+AM.png)
 
 
